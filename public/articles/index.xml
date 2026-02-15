@@ -9,36 +9,16 @@
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 14:32:30 +0700</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 16:42:21 +0700</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Abc</title>
-      <link>http://localhost:1313/articles/abc/</link>
-      <pubDate>Sun, 15 Feb 2026 14:32:30 +0700</pubDate>
+      <title>CSCV 2025 Final Attack-Defense</title>
+      <link>http://localhost:1313/articles/cscv2025-attack-defense/</link>
+      <pubDate>Sun, 15 Feb 2026 16:42:21 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>http://localhost:1313/articles/abc/</guid>
+      <guid>http://localhost:1313/articles/cscv2025-attack-defense/</guid>
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/articles/duc/</link>
-      <pubDate>Sun, 15 Feb 2026 14:31:52 +0700</pubDate>
-      <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>http://localhost:1313/articles/duc/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/articles/hello/</link>
-      <pubDate>Sun, 15 Feb 2026 13:45:21 +0700</pubDate>
-      <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>http://localhost:1313/articles/hello/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/cscv2025-attack-defense/featured.jpg" />
     </item>
     
   </channel>

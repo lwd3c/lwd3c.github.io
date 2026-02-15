@@ -1,4 +1,4 @@
-colorScheme = "slate"
+colorScheme = "forest"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
@@ -6,7 +6,7 @@ enableSearch = true
 enableCodeCopy = true
 enableStructuredBreadcrumbs = false
 replyByEmail = false
-mainSections = [ "articles" ]
+mainSections = [ "redteam", "ctf", "pwn", "notes" ]
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
@@ -29,7 +29,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 showViews = true
 showLikes = true
-defaultBackgroundImage = "giphy.gif"
+defaultBackgroundImage = "coffe.gif"
 defaultFeaturedImage = "tn.png"
 defaultSocialImage = "msec.ico"
 
@@ -45,15 +45,15 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-homepageImage = "giphy.gif"
+homepageImage = "coffe.gif"
 showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = true
-disableHeroImageFilter = false
+layoutBackgroundBlur = false
+disableHeroImageFilter = true
 
 [article]
 showDate = true
@@ -63,9 +63,9 @@ showDateOnlyInArticle = false
 showDateUpdated = true
 showAuthor = true
 showHero = true
-layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+layoutBackgroundBlur = false
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -82,7 +82,7 @@ showWordCount = true
 showZenMode = false
 showAuthorBottom = false
 heroStyle = "background"
-showRelatedContent = false
+showRelatedContent = true
 showComments = false
 externalLinkForceNewTab = true
 relatedContentLimit = "3"
@@ -92,16 +92,18 @@ showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
+heroStyle = "background"
+showImage = true
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
@@ -128,5 +130,9 @@ cardViewScreenWidth = false
 [author]
 name = "lwd3c"
 image = "img/avatar.jpg"
-headline = "CTF Player"
-bio = "Writeups, binary exploits."
+headline = "CTF player | Pwner"
+bio = "Binary Exploitation."
+
+[favicon]
+ico = "favicon.ico"
+png = "favicon.png"

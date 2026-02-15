@@ -19,7 +19,7 @@
         inline = [['\(', '\)']]
 
 [highlight]
-  noClasses = false
+  noClasses = true
 
 [tableOfContents]
   startLevel = 2

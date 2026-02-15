@@ -8,16 +8,28 @@ identifier = "dqwshK7YIo"
 weight = 1
 
 [[main]]
-name = "Articles"
-pageRef = "/articles"
-identifier = "Rscpg43Q6Y"
+name = "CTF"
+pageRef = "/ctf"
+identifier = "iNaxE0sKeE"
 weight = 2
 
 [[main]]
-name = "Categories"
-pageRef = "/categories"
-identifier = "JcKA7dLkN2"
-weight = 9_999
+name = "Notes"
+pageRef = "/notes"
+identifier = "pNO5yBMUk5"
+weight = 5
+
+[[main]]
+name = "Pwn"
+pageRef = "/pwn"
+identifier = "w4AlpHmxES"
+weight = 3
+
+[[main]]
+name = "Redteam"
+pageRef = "/redteam"
+identifier = "5pRdNLOrHs"
+weight = 4
 
 [[footer]]
 none = "none"
