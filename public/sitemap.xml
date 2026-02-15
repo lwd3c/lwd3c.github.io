@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://lwd3c.github.io/articles/</loc><lastmod>2026-02-15T12:00:00+07:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://lwd3c.github.io/</loc><lastmod>2026-02-15T12:00:00+07:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://lwd3c.github.io/articles/hello/</loc><lastmod>2026-02-15T12:00:00+07:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:33581/articles/</loc>
+    <lastmod>2026-02-15T12:45:33+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:33581/</loc>
+    <lastmod>2026-02-15T12:45:33+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:33581/articles/test-ci/</loc>
+    <lastmod>2026-02-15T12:45:33+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:33581/articles/hello/</loc>
+    <lastmod>2026-02-15T12:00:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
