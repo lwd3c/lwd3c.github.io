@@ -6,7 +6,7 @@ enableSearch = true
 enableCodeCopy = true
 enableStructuredBreadcrumbs = false
 replyByEmail = false
-mainSections = [ "redteam", "ctf", "pwn", "notes" ]
+mainSections = [ "posts" ]
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
@@ -85,13 +85,13 @@ heroStyle = "background"
 showRelatedContent = true
 showComments = false
 externalLinkForceNewTab = true
-relatedContentLimit = "3"
+relatedContentLimit = "4"
 
 [list]
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showSummary = true
 showViews = false
 showLikes = false
@@ -102,7 +102,7 @@ groupByYear = true
 cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
-heroStyle = "background"
+heroStyle = "background,"
 showImage = true
 
 [sitemap]
@@ -110,29 +110,27 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
-showBreadcrumbs = false
-showViews = false
-showLikes = false
-showTableOfContents = false
-cardView = false
+showHero = true
+showBreadcrumbs = true
+showViews = true
+showLikes = true
+showTableOfContents = true
+cardView = true
+heroStyle = "background"
 
 [term]
-showHero = false
-showBreadcrumbs = false
-showViews = false
-showLikes = false
+showHero = true
+showBreadcrumbs = true
+showViews = true
+showLikes = true
 showTableOfContents = true
-groupByYear = false
+groupByYear = true
 cardView = false
 cardViewScreenWidth = false
+heroStyle = "background"
 
 [author]
 name = "lwd3c"
 image = "img/avatar.jpg"
 headline = "CTF player | Pwner"
 bio = "Binary Exploitation."
-
-[favicon]
-ico = "favicon.ico"
-png = "favicon.png"
