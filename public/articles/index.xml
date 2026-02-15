@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Blowfish</title>
-    <link>http://localhost:42375/articles/</link>
-    <description>Recent content in Articles on Blowfish</description>
+    <title>Articles on lwd3c&#39;s Blog</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on lwd3c&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 LWD3C</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 12:45:33 +0700</lastBuildDate><atom:link href="http://localhost:42375/articles/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
+    <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
+    <copyright>© 2026 lwd3c</copyright>
+    <lastBuildDate>Sun, 15 Feb 2026 14:32:30 +0700</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Test Ci</title>
-      <link>http://localhost:42375/articles/test-ci/</link>
-      <pubDate>Sun, 15 Feb 2026 12:45:33 +0700</pubDate>
-      
-      <guid>http://localhost:42375/articles/test-ci/</guid>
+      <title>Abc</title>
+      <link>http://localhost:1313/articles/abc/</link>
+      <pubDate>Sun, 15 Feb 2026 14:32:30 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/articles/abc/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:42375/articles/hello/</link>
-      <pubDate>Sun, 15 Feb 2026 12:00:00 +0700</pubDate>
+      <title>Test</title>
+      <link>http://localhost:1313/articles/duc/</link>
+      <pubDate>Sun, 15 Feb 2026 14:31:52 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/articles/duc/</guid>
+      <description></description>
       
-      <guid>http://localhost:42375/articles/hello/</guid>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/articles/hello/</link>
+      <pubDate>Sun, 15 Feb 2026 13:45:21 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/articles/hello/</guid>
       <description></description>
       
     </item>
