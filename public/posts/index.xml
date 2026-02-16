@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on lwd3c&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on lwd3c&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
+    <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
+    <copyright>© 2026 lwd3c</copyright>
+    <lastBuildDate>Mon, 16 Feb 2026 21:45:28 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0xfunCTF</title>
+      <link>http://localhost:1313/posts/ctf/0xfunctf/</link>
+      <pubDate>Mon, 16 Feb 2026 21:45:28 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/ctf/0xfunctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Command</title>
+      <link>http://localhost:1313/posts/notes/git-command/</link>
+      <pubDate>Mon, 16 Feb 2026 21:30:41 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/notes/git-command/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwnable.tw</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/</link>
+      <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/featured.png" />
+    </item>
+    
+    <item>
+      <title>Generation Script Exploit Pwn</title>
+      <link>http://localhost:1313/posts/notes/genscr/</link>
+      <pubDate>Sun, 15 Feb 2026 17:44:04 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/notes/genscr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CyberRange-Billy the Kid</title>
+      <link>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</link>
+      <pubDate>Sun, 15 Feb 2026 17:36:13 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/featured.png" />
+    </item>
+    
+    <item>
+      <title>CSCV 2025 Final Attack-Defense</title>
+      <link>http://localhost:1313/posts/ctf/cscv2025-attack-defense/</link>
+      <pubDate>Sun, 15 Feb 2026 16:42:21 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/ctf/cscv2025-attack-defense/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ctf/cscv2025-attack-defense/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>ISITDTU CTF 2024</title>
+      <link>http://localhost:1313/posts/ctf/isitdtu-ctf-2024/</link>
+      <pubDate>Fri, 16 Feb 2024 21:20:55 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/ctf/isitdtu-ctf-2024/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

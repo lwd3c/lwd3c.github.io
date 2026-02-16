@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber Range on lwd3c&#39;s Blog</title>
+    <link>http://localhost:1313/series/cyber-range/</link>
+    <description>Recent content in Cyber Range on lwd3c&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
+    <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
+    <copyright>© 2026 lwd3c</copyright>
+    <lastBuildDate>Sun, 15 Feb 2026 17:36:13 +0700</lastBuildDate><atom:link href="http://localhost:1313/series/cyber-range/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CyberRange-Billy the Kid</title>
+      <link>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</link>
+      <pubDate>Sun, 15 Feb 2026 17:36:13 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
