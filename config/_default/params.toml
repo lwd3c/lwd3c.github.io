@@ -85,7 +85,7 @@ heroStyle = "background"
 showRelatedContent = true
 showComments = false
 externalLinkForceNewTab = true
-relatedContentLimit = "4"
+relatedContentLimit = "3"
 
 [list]
 showHero = false

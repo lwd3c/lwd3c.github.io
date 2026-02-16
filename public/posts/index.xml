@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pwn on lwd3c&#39;s Blog</title>
+    <title>Posts on lwd3c&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Pwn on lwd3c&#39;s Blog</description>
+    <description>Recent content in Posts on lwd3c&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 17:44:04 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Feb 2026 10:53:32 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pwnable.tw</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/</link>
+      <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/featured.png" />
+    </item>
     
     <item>
       <title>Generation Script Exploit Pwn</title>
@@ -28,7 +38,7 @@
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/featured.png" />
+      
     </item>
     
     <item>
