@@ -1,5 +1,3 @@
-Sau này mỗi lần viết bài mới:
-
 hugo --minify
 cd public
 git add .
