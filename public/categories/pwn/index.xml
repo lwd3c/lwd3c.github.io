@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pwn on lwd3c&#39;s Blog</title>
-    <link>http://localhost:1313/categories/pwn/</link>
+    <link>https://lwd3c.github.io/categories/pwn/</link>
     <description>Recent content in Pwn on lwd3c&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 10:53:32 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/pwn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Feb 2026 10:53:32 +0700</lastBuildDate><atom:link href="https://lwd3c.github.io/categories/pwn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pwnable.tw</title>
-      <link>http://localhost:1313/posts/pwn/pwnable.tw/</link>
+      <link>https://lwd3c.github.io/posts/pwn/pwnable.tw/</link>
       <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>http://localhost:1313/posts/pwn/pwnable.tw/</guid>
+      <guid>https://lwd3c.github.io/posts/pwn/pwnable.tw/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lwd3c.github.io/posts/pwn/pwnable.tw/featured.png" />
     </item>
     
   </channel>
