@@ -3,55 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://lwd3c.github.io/posts/ctf/0xfunctf/</loc>
+    <loc>http://localhost:1313/posts/ctf/bitsctf/</loc>
+    <lastmod>2026-02-22T16:17:37+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-22T16:17:37+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-22T16:17:37+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/ctf/0xfunctf/</loc>
     <lastmod>2026-02-16T21:45:28+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://lwd3c.github.io/</loc>
-    <lastmod>2026-02-16T21:45:28+07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://lwd3c.github.io/posts/</loc>
-    <lastmod>2026-02-16T21:45:28+07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://lwd3c.github.io/posts/notes/git-command/</loc>
+    <loc>http://localhost:1313/posts/notes/git-command/</loc>
     <lastmod>2026-02-16T21:30:41+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://lwd3c.github.io/posts/pwn/pwnable.tw/</loc>
+    <loc>http://localhost:1313/posts/pwn/pwnable.tw/</loc>
     <lastmod>2026-02-16T10:53:32+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://lwd3c.github.io/posts/notes/genscr/</loc>
+    <loc>http://localhost:1313/posts/notes/genscr/</loc>
     <lastmod>2026-02-15T17:44:04+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://lwd3c.github.io/posts/redteam/cyberrange-billy-the-kid/</loc>
+    <loc>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</loc>
     <lastmod>2026-02-15T17:36:13+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://lwd3c.github.io/posts/ctf/cscv2025-attack-defense/</loc>
+    <loc>http://localhost:1313/posts/ctf/cscv2025-attack-defense/</loc>
     <lastmod>2026-02-15T16:42:21+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://lwd3c.github.io/posts/ctf/isitdtu-ctf-2024/</loc>
+    <loc>http://localhost:1313/posts/ctf/isitdtu-ctf-2024/</loc>
     <lastmod>2024-02-16T21:20:55+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

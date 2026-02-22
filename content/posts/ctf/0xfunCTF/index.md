@@ -3,7 +3,6 @@ title = '0xfunCTF'
 date = 2026-02-16T21:45:28+07:00
 draft = false
 categories = ["ctf"]
-tags = ["pwn"]
 +++
 
 ## What you have?

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on lwd3c&#39;s Blog</title>
-    <link>https://lwd3c.github.io/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on lwd3c&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <atom:link href="https://lwd3c.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

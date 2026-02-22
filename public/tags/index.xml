@@ -2,24 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on lwd3c&#39;s Blog</title>
-    <link>https://lwd3c.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on lwd3c&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 21:45:28 +0700</lastBuildDate><atom:link href="https://lwd3c.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Pwn</title>
-      <link>https://lwd3c.github.io/tags/pwn/</link>
-      <pubDate>Mon, 16 Feb 2026 21:45:28 +0700</pubDate>
-      <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>https://lwd3c.github.io/tags/pwn/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

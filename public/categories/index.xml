@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on lwd3c&#39;s Blog</title>
-    <link>https://lwd3c.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on lwd3c&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 21:45:28 +0700</lastBuildDate><atom:link href="https://lwd3c.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Feb 2026 16:17:37 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ctf</title>
-      <link>https://lwd3c.github.io/categories/ctf/</link>
-      <pubDate>Mon, 16 Feb 2026 21:45:28 +0700</pubDate>
+      <link>http://localhost:1313/categories/ctf/</link>
+      <pubDate>Sun, 22 Feb 2026 16:17:37 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>https://lwd3c.github.io/categories/ctf/</guid>
+      <guid>http://localhost:1313/categories/ctf/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notes</title>
-      <link>https://lwd3c.github.io/categories/notes/</link>
+      <link>http://localhost:1313/categories/notes/</link>
       <pubDate>Mon, 16 Feb 2026 21:30:41 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>https://lwd3c.github.io/categories/notes/</guid>
+      <guid>http://localhost:1313/categories/notes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pwn</title>
-      <link>https://lwd3c.github.io/categories/pwn/</link>
+      <link>http://localhost:1313/categories/pwn/</link>
       <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>https://lwd3c.github.io/categories/pwn/</guid>
+      <guid>http://localhost:1313/categories/pwn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Redteam</title>
-      <link>https://lwd3c.github.io/categories/redteam/</link>
+      <link>http://localhost:1313/categories/redteam/</link>
       <pubDate>Sun, 15 Feb 2026 17:36:13 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>https://lwd3c.github.io/categories/redteam/</guid>
+      <guid>http://localhost:1313/categories/redteam/</guid>
       <description></description>
       
     </item>
