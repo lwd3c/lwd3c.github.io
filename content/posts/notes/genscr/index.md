@@ -114,7 +114,7 @@ Sau đó copy file này vào /usr/local/bin và chmod+x là có thể sử dụn
 
 ## 2. Genscr AMD + ARM
 
-```python
+```py
 #!/usr/bin/env python3
 import sys, os
 from pwn import ELF
@@ -196,8 +196,7 @@ ra     = lambda proc=None: proc.recvall() if proc else p.recvall()
 def GDB():
     gdb.attach(p, gdbscript=\"\"\"
         {emu_gdb_setup}
-        break main
-        continue
+        
     \"\"\")
 
 if args.REMOTE:
@@ -205,7 +204,7 @@ if args.REMOTE:
 else:
     {emu_line}
     if qemu_bin:
-        p = process([qemu_bin] + qemu_args + [exe.path])
+        p = process([qemu_bin] + qemu_args + [exe.path]) # type: ignore
     else:
         p = process([exe.path])
     if args.GDB:

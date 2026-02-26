@@ -18,7 +18,7 @@
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/posts/notes/git-command/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/notes/git-command/featured.png" />
     </item>
     
     <item>
@@ -28,7 +28,7 @@
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/posts/notes/genscr/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/notes/genscr/featured.png" />
     </item>
     
   </channel>

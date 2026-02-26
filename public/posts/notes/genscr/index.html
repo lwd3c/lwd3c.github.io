@@ -45,9 +45,11 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2026-02-15T17:44:04+07:00">
     <meta property="article:modified_time" content="2026-02-15T17:44:04+07:00">
+    <meta property="og:image" content="http://localhost:1313/posts/notes/genscr/featured.png">
 
   
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/posts/notes/genscr/featured.png">
   <meta name="twitter:title" content="Generation Script Exploit Pwn">
   <meta name="twitter:description" content="Hello everyone ! This my blog.">
 
@@ -60,21 +62,9 @@
     
   
     
-      
-    
   
     
-      
-    
   
-  
-    
-      
-      
-        
-      
-      
-    
   
 
   
@@ -615,12 +605,6 @@
 
 
 
-  
-  
-    
-    
-  
-
 
 
 
@@ -642,7 +626,7 @@
     
     <img
       id="background-image"
-      src="/coffe_hu_8bddb425a95e79eb.gif"
+      src="/posts/notes/genscr/featured_hu_3ae60784d3d39c81.png"
       role="presentation"
       loading="eager"
       decoding="async"
@@ -903,8 +887,8 @@
         width="96"
         height="96"
         alt="lwd3c"
-        src="/img/avatar_hu_2d2ffded7d01d811.jpg"
-        data-zoom-src="/img/avatar_hu_fe5d9a8ceed24728.jpg">
+        src="/ducc_hu_fc4be94bfd8864ca.jpg"
+        data-zoom-src="/ducc_hu_eceb0fb1d7beecbd.jpg">
     
   
   <div class="place-self-center">
@@ -917,7 +901,7 @@
       </div>
     
     
-      <div class="text-sm text-neutral-700 dark:text-neutral-400">Binary Exploitation.</div>
+      <div class="text-sm text-neutral-700 dark:text-neutral-400">Binary Exploitation</div>
     
     <div class="text-2xl sm:text-lg">
 </div>
@@ -1209,7 +1193,7 @@
     </span>
     
 </h2>
-<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e">#!/usr/bin/env python3</span>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-py" data-lang="py"><span style="display:flex;"><span><span style="color:#75715e">#!/usr/bin/env python3</span>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> sys<span style="color:#f92672">,</span> os
 </span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> pwn <span style="color:#f92672">import</span> ELF
 </span></span><span style="display:flex;"><span>
@@ -1290,8 +1274,7 @@
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">def GDB():
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    gdb.attach(p, gdbscript=</span><span style="color:#ae81ff">\&#34;\&#34;\&#34;</span><span style="color:#e6db74">
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        </span><span style="color:#e6db74">{</span>emu_gdb_setup<span style="color:#e6db74">}</span><span style="color:#e6db74">
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        break main
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        continue
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    </span><span style="color:#ae81ff">\&#34;\&#34;\&#34;</span><span style="color:#e6db74">)
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">if args.REMOTE:
@@ -1299,7 +1282,7 @@
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">else:
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    </span><span style="color:#e6db74">{</span>emu_line<span style="color:#e6db74">}</span><span style="color:#e6db74">
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    if qemu_bin:
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        p = process([qemu_bin] + qemu_args + [exe.path])
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        p = process([qemu_bin] + qemu_args + [exe.path]) # type: ignore
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    else:
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        p = process([exe.path])
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    if args.GDB:
