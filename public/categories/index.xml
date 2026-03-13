@@ -9,7 +9,17 @@
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 16:17:37 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 11:37:13 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Redteam</title>
+      <link>http://localhost:1313/categories/redteam/</link>
+      <pubDate>Fri, 13 Mar 2026 11:37:13 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/categories/redteam/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ctf</title>
@@ -37,16 +47,6 @@
       <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/categories/pwn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Redteam</title>
-      <link>http://localhost:1313/categories/redteam/</link>
-      <pubDate>Sun, 15 Feb 2026 17:36:13 +0700</pubDate>
-      <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>http://localhost:1313/categories/redteam/</guid>
       <description></description>
       
     </item>

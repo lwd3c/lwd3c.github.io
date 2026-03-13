@@ -9,7 +9,17 @@
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 17:36:13 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/redteam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 11:37:13 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/redteam/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cyberrange-Whats Up Dave</title>
+      <link>http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/</link>
+      <pubDate>Fri, 13 Mar 2026 11:37:13 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/featured.png" />
+    </item>
     
     <item>
       <title>CyberRange-Billy the Kid</title>

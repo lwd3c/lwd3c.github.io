@@ -9,7 +9,17 @@
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 16:17:37 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 11:37:13 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cyberrange-Whats Up Dave</title>
+      <link>http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/</link>
+      <pubDate>Fri, 13 Mar 2026 11:37:13 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/featured.png" />
+    </item>
     
     <item>
       <title>BitsCTF</title>
@@ -38,7 +48,7 @@
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/posts/notes/git-command/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/notes/git-command/featured.png" />
     </item>
     
     <item>
@@ -58,7 +68,7 @@
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/posts/notes/genscr/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/notes/genscr/featured.png" />
     </item>
     
     <item>
