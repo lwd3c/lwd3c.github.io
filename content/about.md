@@ -5,13 +5,6 @@ draft = false
 _build = { list = false, render = true }
 +++
 
-**Personal Information**    
-- **Date of Birth:** 29/06/2004  
-- **Email:** leduc290604@gmail.com  
-- **Phone:** 0328329060  
-- **Location:** Hung Ha, Hung Yen  
-
----
 **Education: Military Technical Academy**  
 **Major:** Information Security  
 **Duration:** 10/2022 – Present  
@@ -43,7 +36,7 @@ _build = { list = false, render = true }
 **Awards & Achievements**
 - **2024:** Second Prize – MTA CTF 2024  
 - **2024:** Consolation Prize – ASEAN Information Security Student Competition  
-- **2025:** Third Prize – Attack & Defense M*CTF 2025  
+- **2025:** Third Prize – Attack & Defense MTUCICTF 2025  
 - **2025:** Top 8 – Digital Dragon CTF 2025  
-- **2025:** Third Prize – National Cyber Security Student Final  
+- **2025:** Third Prize – Cybersecurity Student Contest Vietnam
 ---
