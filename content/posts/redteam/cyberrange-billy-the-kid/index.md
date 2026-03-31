@@ -1,5 +1,5 @@
 +++
-title = 'CyberRange-Billy the Kid'
+title = 'CyberRange Billy the Kid'
 date = 2026-02-15T17:36:13+07:00
 draft = false
 categories = ["redteam"]
