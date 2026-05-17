@@ -35,7 +35,7 @@ _build = { list = false, render = true }
 
 **Awards & Achievements**
 - **2024:** Second Prize – MTA CTF 2024  
-- **2024:** Consolation Prize – ASEAN Information Security Student Competition  
+- **2024:** Consolation Prize – ASEAN Student Contest On Information Security 
 - **2025:** Third Prize – Attack & Defense MTUCICTF 2025  
 - **2025:** Top 8 – Digital Dragon CTF 2025  
 - **2025:** Third Prize – Cybersecurity Student Contest Vietnam

@@ -1,7 +1,7 @@
 +++
 title = 'CyberRange Maximiliano'
 date = 2026-03-31T10:15:23+07:00
-draft = false
+draft = true
 categories = ["redteam"]
 series = ["Cyber Range"]
 +++

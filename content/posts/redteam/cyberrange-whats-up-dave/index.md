@@ -1,7 +1,7 @@
 +++
 title = 'CyberRange Whats Up Dave'
 date = 2026-03-13T11:37:13+07:00
-draft = false
+draft = true
 categories = ["redteam"]
 series = ["Cyber Range"]
 +++
