@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/redteam/cyberrange-maximiliano/</loc>
-    <lastmod>2026-03-31T10:15:23+07:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-17T10:46:20+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-31T10:15:23+07:00</lastmod>
+    <loc>http://localhost:1313/posts/cve/n8n-tournament-sandbox-escape-rce/</loc>
+    <lastmod>2026-05-17T10:46:20+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-31T10:15:23+07:00</lastmod>
+    <lastmod>2026-05-17T10:46:20+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -29,12 +29,6 @@
   <url>
     <loc>http://localhost:1313/posts/ctf/utctf2026/</loc>
     <lastmod>2026-03-13T20:15:02+07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/redteam/cyberrange-whats-up-dave/</loc>
-    <lastmod>2026-03-13T11:37:13+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -65,12 +59,6 @@
   <url>
     <loc>http://localhost:1313/posts/notes/genscr/</loc>
     <lastmod>2026-02-15T17:44:04+07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/redteam/cyberrange-billy-the-kid/</loc>
-    <lastmod>2026-02-15T17:36:13+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
