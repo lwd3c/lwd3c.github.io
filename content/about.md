@@ -2,7 +2,7 @@
 title = "About me"
 date = 2026-02-15T19:30:40+07:00
 draft = false
-_build = { list = false, render = true }
+build = { list = false, render = true }
 +++
 
 **Education: Military Technical Academy**  
