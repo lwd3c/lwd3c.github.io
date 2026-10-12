@@ -72,16 +72,6 @@
     </item>
     
     <item>
-      <title>Pwnable.tw</title>
-      <link>http://localhost:1313/posts/pwn/pwnable.tw/</link>
-      <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
-      <author>leduc290604@gmail.com (lwd3c)</author>
-      <guid>http://localhost:1313/posts/pwn/pwnable.tw/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/featured.png" />
-    </item>
-    
-    <item>
       <title>Generation Script Exploit Pwn</title>
       <link>http://localhost:1313/posts/notes/genscr/</link>
       <pubDate>Sun, 15 Feb 2026 17:44:04 +0700</pubDate>

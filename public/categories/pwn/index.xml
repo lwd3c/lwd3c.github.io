@@ -9,16 +9,366 @@
     <managingEditor>leduc290604@gmail.com (lwd3c)</managingEditor>
     <webMaster>leduc290604@gmail.com (lwd3c)</webMaster>
     <copyright>© 2026 lwd3c</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 10:53:32 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/pwn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2026 12:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/pwn/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pwnable.tw - Stupid Robot</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/stupid-robot/</link>
+      <pubDate>Mon, 12 Oct 2026 12:15:00 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/stupid-robot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Stupid Boss</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/stupid-boss/</link>
+      <pubDate>Mon, 12 Oct 2026 12:10:00 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/stupid-boss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - HITCON FTP</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/hitcon-ftp/</link>
+      <pubDate>Mon, 12 Oct 2026 12:05:00 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/hitcon-ftp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Bash</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/bash/</link>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - De-ASLR</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/de-aslr/</link>
+      <pubDate>Thu, 24 Sep 2026 16:41:51 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/de-aslr/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/de-aslr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Break Out</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/break-out/</link>
+      <pubDate>Thu, 24 Sep 2026 10:42:40 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/break-out/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/break-out/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Ghost Party</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/ghost-party/</link>
+      <pubDate>Wed, 23 Sep 2026 21:19:53 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/ghost-party/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/ghost-party/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - unexploitable</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/unexploitable/</link>
+      <pubDate>Wed, 23 Sep 2026 19:17:08 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/unexploitable/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/unexploitable/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - WannaHeap</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/wannaheap/</link>
+      <pubDate>Wed, 23 Sep 2026 11:01:39 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/wannaheap/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/wannaheap/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Bounty Program α</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/bounty-program-alpha/</link>
+      <pubDate>Tue, 22 Sep 2026 20:28:58 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/bounty-program-alpha/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/bounty-program-alpha/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - CVE-2018-10387</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/cve-2018-10387/</link>
+      <pubDate>Tue, 22 Sep 2026 16:15:48 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/cve-2018-10387/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/cve-2018-10387/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Kidding</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/kidding/</link>
+      <pubDate>Tue, 22 Sep 2026 08:16:50 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/kidding/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/kidding/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - MnO2</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/mno2/</link>
+      <pubDate>Tue, 22 Sep 2026 07:15:27 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/mno2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/mno2/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Re-alloc Revenge</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/re-alloc-revenge/</link>
+      <pubDate>Mon, 21 Sep 2026 17:27:06 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/re-alloc-revenge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/re-alloc-revenge/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Secret Of My Heart</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/secret-of-my-heart/</link>
+      <pubDate>Mon, 21 Sep 2026 16:03:49 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/secret-of-my-heart/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/secret-of-my-heart/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - CAOV</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/caov/</link>
+      <pubDate>Mon, 21 Sep 2026 14:53:35 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/caov/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/caov/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - BookWriter</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/bookwriter/</link>
+      <pubDate>Mon, 21 Sep 2026 14:53:01 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/bookwriter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/bookwriter/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Alive Note</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/alive-note/</link>
+      <pubDate>Mon, 21 Sep 2026 09:37:54 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/alive-note/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/alive-note/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - BabyStack</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/babystack/</link>
+      <pubDate>Sat, 19 Sep 2026 23:27:50 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/babystack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/babystack/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Secret Garden</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/secret-garden/</link>
+      <pubDate>Sat, 19 Sep 2026 22:17:26 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/secret-garden/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/secret-garden/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Spirited Away</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/spirited-away/</link>
+      <pubDate>Sat, 19 Sep 2026 21:00:38 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/spirited-away/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/spirited-away/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Heap Paradise</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/heap-paradise/</link>
+      <pubDate>Fri, 18 Sep 2026 22:02:05 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/heap-paradise/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/heap-paradise/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Starbound</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/starbound/</link>
+      <pubDate>Fri, 18 Sep 2026 21:59:21 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/starbound/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/starbound/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Death Note</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/death-note/</link>
+      <pubDate>Fri, 18 Sep 2026 21:56:25 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/death-note/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/death-note/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - seethefile</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/seethefile/</link>
+      <pubDate>Fri, 18 Sep 2026 21:55:05 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/seethefile/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/seethefile/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Re-alloc</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/re-alloc/</link>
+      <pubDate>Fri, 18 Sep 2026 21:50:21 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/re-alloc/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/re-alloc/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - applestore</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/applestore/</link>
+      <pubDate>Fri, 18 Sep 2026 21:37:41 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/applestore/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/applestore/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Silver Bullet</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/silver-bullet/</link>
+      <pubDate>Thu, 17 Sep 2026 11:47:35 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/silver-bullet/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/silver-bullet/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - 3x17</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/3x17/</link>
+      <pubDate>Thu, 17 Sep 2026 10:33:53 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/3x17/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/3x17/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - dubblesort</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/dubblesort/</link>
+      <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/dubblesort/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/dubblesort/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - calc</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/calc/</link>
+      <pubDate>Sat, 31 Jan 2026 09:25:58 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/calc/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/calc/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - Start</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/start/</link>
+      <pubDate>Sat, 31 Jan 2026 09:24:12 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/start/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/start/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - orw</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/orw/</link>
+      <pubDate>Thu, 29 Jan 2026 21:03:28 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/orw/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/orw/featured.png" />
+    </item>
     
     <item>
       <title>Pwnable.tw</title>
       <link>http://localhost:1313/posts/pwn/pwnable.tw/</link>
-      <pubDate>Mon, 16 Feb 2026 10:53:32 +0700</pubDate>
+      <pubDate>Thu, 29 Jan 2026 21:00:00 +0700</pubDate>
       <author>leduc290604@gmail.com (lwd3c)</author>
       <guid>http://localhost:1313/posts/pwn/pwnable.tw/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - tcache_tear</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/tcache-tear/</link>
+      <pubDate>Fri, 07 Nov 2025 23:01:33 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/tcache-tear/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/tcache-tear/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pwnable.tw - hacknote</title>
+      <link>http://localhost:1313/posts/pwn/pwnable.tw/hacknote/</link>
+      <pubDate>Fri, 07 Nov 2025 19:14:04 +0700</pubDate>
+      <author>leduc290604@gmail.com (lwd3c)</author>
+      <guid>http://localhost:1313/posts/pwn/pwnable.tw/hacknote/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pwn/pwnable.tw/hacknote/featured.png" />
     </item>
     
   </channel>
